@@ -1,0 +1,11 @@
+name: causalda_iclr23
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.9.12
+  - jupyter
+  - pygraphviz
+  - pip
+  - pip:
+    - -r requirements.txt

@@ -1,0 +1,22 @@
+numpy
+pandas
+
+# Method
+pygraphviz
+sacred
+pymongo
+lingam
+scikit-learn==1.2
+xgboost
+bnlearn
+ananke-causal
+
+# Eval
+networkx
+torch
+scipy
+plotly
+tqdm
+
+## Recording
+dill
