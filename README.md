@@ -1,4 +1,4 @@
-# Causal Data Augmentation --- Assessing the characteristics of causal data augmentation: an experimental analysis
+# A Guide for Practical Use of ADMG Causal Data Augmentation
 
 ## Requirements
 
